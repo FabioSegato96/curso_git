@@ -1,3 +1,5 @@
 Curso Git
 
-Qualquer mudanç
+Qualquer mudança
+
+Vou arrumar todos os meus repositórios 'u'
